@@ -1,0 +1,28 @@
+LA MISSIONE DEL SERGENTE SNIPER
+
+Il tiratore scelto Jerry Sniper, sergente pluridecorato dell’esercito USA, per portare a
+termine la sua missione deve centrare un obiettivo con il suo inseparabile fucile da
+cecchino. Il moto del proiettile segue la seguente traiettoria parabolica:
+
+xxy
+10
+1
+10000
+12
+
+Le variabili x e y sono espresse in metri.
+Rispondi dunque alle seguenti domande:
+1. Trova la gittata del proiettile (distanza intersezioni con l’asse delle x);
+2. Determina il punto più alto che raggiunge il proiettile;
+3. Quale è la pendenza del fucile (tangente) nel punto in cui spara (origine degli
+assi)?
+
+4. Se l’obiettivo si spostasse a una distanza dal cecchino di 1,2 Km, come si
+dovrebbe modificare il paramento b della parabola bxxy2
+10000
+1
+
+?
+5. Determina il punto più alto che raggiunge il proiettile in questa nuova
+equazione;
+6. Quale è ora la pendenza del fucile?
